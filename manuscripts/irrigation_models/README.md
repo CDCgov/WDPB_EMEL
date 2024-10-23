@@ -2,7 +2,7 @@
 
 **R** code and data to conduct the analysis of human fecal contamination in produce irrigation ponds using predictive models that is reported in:
 
-> Hofstetter J, Holcomb DA, Kahler AM, Rodrigues C, da Silva ALBR, Mattioli MC. (2024). Rainfall and nearby septic system impacts on human fecal contamination of produce irrigation waters in the southeast United States. *Submitted for publication*.
+> Hofstetter J, Holcomb DA, Kahler AM, Rodrigues C, da Silva ALBR, Mattioli MC. (2024). Performance of conditional random forest and regression models at predicting human fecal contamination of produce irrigation ponds in the southeastern United States. *Submitted for publication*.
 
 <br />
 
