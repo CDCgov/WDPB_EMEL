@@ -10,6 +10,7 @@
 
 2. [Holcomb DA, Riner D, Cowan B, Salah Z, Jennings WC, Mattioli MC, Murphy JL. (2024). Chlorine inactivation of *Elizabethkingia* spp. in water. *Emerging Infectious Diseases*, *30* (10). https://doi.org/10.3201/eid3010.240917](manuscripts/elizabethkingia)
 
+3. [Hofstetter J, Holcomb DA, Kahler AM, Rodrigues C, da Silva ALBR, Mattioli MC. (2024). Performance of conditional random forest and regression models at predicting human fecal contamination of produce irrigation ponds in the southeastern United States. *ACS ES&T Water*. https://doi.org/10.1021/acsestwater.4c00839](manuscripts/irrigation_models).
 
 <br />
 
